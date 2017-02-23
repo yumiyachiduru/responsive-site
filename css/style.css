@@ -72,7 +72,7 @@ section h2 {
     background-color: #aacf7c;
     color: #4c4c4c; }
 
-@media (min-width: 1025px) {
+@media (min-width: 768px) {
   header {
     width: 100%;
     height: 500px;
